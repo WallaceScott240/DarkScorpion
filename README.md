@@ -45,7 +45,7 @@ pip install requests beautifulsoup4
 1. **Run the Application**
 
 ```bash
-python darkscorpion.py
+python soup.py
 ```
 
 2. **Enter Target URL**  
@@ -67,7 +67,8 @@ python darkscorpion.py
 
 ## 📄 Sample Output
 
-![Scan Output](Screenshot%202025-06-24%20191151.png)
+![Fox Logo](https://i.postimg.cc/43HbQ6tH/Screenshot-2025-06-24-191151.png) 
+![Fox Logo](https://i.postimg.cc/c4Nxx0Tp/Screenshot-2025-06-24-191650.png) 
 
 ---
 
@@ -110,6 +111,4 @@ This tool is for **educational and authorized security testing purposes only**. 
 Feel free to fork, open issues, or suggest improvements.
 
 ---
-![Fox Logo](https://i.postimg.cc/43HbQ6tH/Screenshot-2025-06-24-191151.png) 
-![Fox Logo](https://i.postimg.cc/c4Nxx0Tp/Screenshot-2025-06-24-191650.png) 
 © 2025 DarkScorpion — Stay Secure 🛡️
