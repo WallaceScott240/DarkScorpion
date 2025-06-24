@@ -1,6 +1,3 @@
-![Fox Logo](https://i.postimg.cc/43HbQ6tH/Screenshot-2025-06-24-191151.png) ![Fox Logo]([https://example.com/image.png](https://i.postimg.cc/c4Nxx0Tp/Screenshot-2025-06-24-191650.png))
-
-
 # 🦂 DarkScorpion - Advanced Web Vulnerability Scanner
 
 **DarkScorpion** is a powerful GUI-based Python tool for scanning websites for common security vulnerabilities. With a modern dark-themed interface, it provides detailed analysis of XSS, SQL Injection, open redirects, security header misconfigurations, and SSL/TLS issues — all in one convenient application.
@@ -113,5 +110,6 @@ This tool is for **educational and authorized security testing purposes only**. 
 Feel free to fork, open issues, or suggest improvements.
 
 ---
-
+![Fox Logo](https://i.postimg.cc/43HbQ6tH/Screenshot-2025-06-24-191151.png) 
+![Fox Logo](https://i.postimg.cc/c4Nxx0Tp/Screenshot-2025-06-24-191650.png) 
 © 2025 DarkScorpion — Stay Secure 🛡️
